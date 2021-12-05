@@ -1,4 +1,4 @@
-### Tasks
+### Task
 
 1. You are given a task to assign a sequential integer to each order which sorts by their freight and resets the row number when the related customer changes. 
 
