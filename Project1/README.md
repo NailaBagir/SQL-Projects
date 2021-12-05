@@ -1,4 +1,4 @@
-In the first part you will be assigned to work on the HR.Employees table.You should get started to familiarize the table data before carrying out the task below.
+In the first part you will be assigned to work on the **HR.Employees** table.You should get started to familiarize the table data before carrying out the task below.
 
   1. You are given a task to figure out the gender ratio in the different departments of the company X. Before that, you need to obtain the number of male and  female employees who work in this company. 
 
@@ -8,7 +8,7 @@ In the first part you will be assigned to work on the HR.Employees table.You sho
   3. Your job is to reveal the oldest and youngest employees in the company and display their full name in order to determine the working age group and employment rate by age group. 
 
 
-In the second part you will be working on the Sales.Customers table.
+In the second part you will be working on the **Sales.Customers** table.
 
   4. It is required to remove the null values from the ‘fax’ column. It is good practice to replace these values with phone numbers.
 
