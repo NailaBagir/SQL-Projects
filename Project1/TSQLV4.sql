@@ -1,4 +1,16 @@
 
+---------------------------------------------------------------------
+-- Script that creates the sample database TSQLV4
+--
+-- Supported versions of SQL Server: 2008, 2008 R2, 2012, 2014, 2016, Azure SQL Database
+--
+-- Based originally on the Northwind sample database
+-- with changes in both schema and data
+--
+-- Last updated: 20160601
+--
+-- © Itzik Ben-Gan
+---------------------------------------------------------------------
 
 ---------------------------------------------------------------------
 -- Create empty database TSQLV4
