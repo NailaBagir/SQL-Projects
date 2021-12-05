@@ -1,3 +1,4 @@
+### Tasks
 In the first part you will be assigned to work on the **HR.Employees** table.You should get started to familiarize the table data before carrying out the task below.
 
   1. You are given a task to figure out the gender ratio in the different departments of the company X. Before that, you need to obtain the number of male and  female employees who work in this company. 
