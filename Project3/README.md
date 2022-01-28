@@ -3,6 +3,6 @@
 
 2. There is demand for the creation of the functionality which takes the brand name and returns the total revenue earned from the existing products in the stocks and their quantity for each brand over each year. 
 
-&emsp;2.1 Another functionality is needed to take a category and in accordance with each category display the total revenue earned from the existing products in the stocks and their quantity over each year.
+&emsp;&emsp;2.1 Another functionality is needed to take a category and in accordance with each category display the total revenue earned from the existing products in the stocks and their quantity over each year.
 
-&emsp;2.2 The online platform needs functionality to display the list of available products and the amount of products stored in the store by only entering the store name and year into field.
+&emsp;&emsp;2.2 The online platform needs functionality to display the list of available products and the amount of products stored in the store by only entering the store name and year into field.
